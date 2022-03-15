@@ -1,0 +1,61 @@
+FRESHCO DATA CODE BOOK
+============================================================
+
+This dataset includes seven features of customer data for a subset of 2093 FreshCo customers.
+It entails the sociodemographics of the customers, as well as data on their grocery home deliveries and grocery store visits.
+
+A description of each feature is provided and the levels with the associated labels are provided for the categorical features.
+
+
+1. homeshop
+
+ The number of grocery home deliveries received in 2021
+
+
+2. storeshop 
+
+ The number of grocery store visits in 2021
+
+
+3. employ
+
+ The employment status of the customer
+
+ - 1	Retired
+ - 2	Working full time 
+ - 3	Working part time 
+ - 4	On a local or government training scheme
+ - 5	On an apprenticeship
+ - 6	Registered unemployed
+ - 7	Not registered unemployed but seeking work
+ - 8	Looking after family or home/not seeking work
+ - 9	Long-term sick or disabled
+ - 10	In full-time education
+ - 11	Other
+ - 12	Refused
+ - 13	Don't know
+
+
+4.income
+
+ The annual income of the customer
+
+
+5. location
+
+ The location of residence of the customer
+
+ - 1	Urban - London
+ - 2	Urban - Other
+ - 3	Town and Fringe
+ - 4	Village, Hamlet and Isolated Dwellings
+ 
+
+6. size
+
+ The number of people in the customer's household
+
+
+7. age
+
+ The age of the customer
